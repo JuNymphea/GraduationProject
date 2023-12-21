@@ -1,0 +1,8 @@
+cityscapes/
+Datasets/
+Mask2Former/
+PNGcityscapes/
+SegEx/
+Segmentation/
+whoremains/
+model.tar
